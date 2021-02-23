@@ -5,5 +5,9 @@ public class Dugu9jian {
         System.out.println("dugu 9 jian hao!!");
         System.out.println("dugu 9 jian hao!!");
         System.out.println("dugu 9 jian hao!!");
+        System.out.println("dugu 9 jian hao!!");
+        System.out.println("dugu 9 jian hao!!");
+        System.out.println("dugu 9 jian hao!!");
+        System.out.println("dugu 9 jian hao!!");
     }
 }
